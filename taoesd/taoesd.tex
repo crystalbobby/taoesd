@@ -7,17 +7,14 @@
 \usepackage{graphicx}
 \usepackage{float}
 \usepackage{hyperref}
+\usepackage{amsmath, amssymb}
+\usepackage{comment}
 \graphicspath{ {images/} }
  
 \begin{document}
 	\maketitle
 	\frontmatter
-	\part{PREFACE}
-	
-	In these book, I will summerize all I know about the embedded system, and give some practical electronic designs what I have done in my career. Also, I want to improve the ability of using \LaTeX by myselt. This book is in the public domain. All the copyrights are under GPL 2.0.
-	Thanks all for your attentions! All the materials are from books, internet, etc. I will list as much references as possible, but I am not sure that I can list all. For any improper or defects, your suggurestions are warmly welcomed.
-	
-	Best Regards!
+	\include{./chapters/Preface/Preface}
 	
 
 	\tableofcontents
@@ -28,10 +25,14 @@
 	\part{Physics}
 	\label{Physics}
 	\include{./chapters/Physics/Physics}
+
+	\begin{comment} 
 	\chapter{Solid state physics}
 	\label{Solid state physics}
 	\chapter{Semiconductor physics}
 	\label{Semiconductor physics}
+	\end{comment}
+
 	
 	
 	\part{Circuit basics}
@@ -39,6 +40,9 @@
 	
 	\part{Analog circuit}
 	\label{Analog circuit}
+	
+	\begin{comment} 
+	rather stupid, but helpful 
 	\chapter{Transistor circuit analysis}
 	\label{Transistor circuit analysis}
 	\chapter{Transistor circuit design}
@@ -47,10 +51,14 @@
 	\label{FET circuit analysis}
 	\chapter{FET circuit design}
 	\label{FET circuit design}
-	
+	\end{comment}
 	
 	\part{Analog VLSI design}
 	\label{Analog VLSI design}
+	\include{./chapters/Analog_VLSI/Analog_VLSI}
+	
+	\begin{comment} 
+	rather stupid, but helpful 
 	\chapter{Current source}
 	\label{Current source}
 	\chapter{Current mirror}
@@ -59,10 +67,17 @@
 	\label{Differential amplifier pair}
 	\chapter{OP AMP design}
 	\label{OP AMP design}
+	\end{comment}
+
 	
 	
 	\part{Digital circuit}
 	\label{Digital circuit}
+	
+	\begin{comment} 
+	rather stupid, but helpful 
+	\end{comment}
+	
 	\chapter{Finite state machine}
 	\label{Finite state machine}
 	
@@ -89,10 +104,14 @@
 	\part{Computer orgnization}
 	
 	\part{Computer architecture}
+	
+	\begin{comment} 
+	rather stupid, but helpful 
 	\chapter{Microcontroller}
 	\chapter{Digital signal processor}
 	\chapter{ARM processor}
-	
+	\end{comment}
+
 	\part{Operating system}
 	
 	\part{Linux administration}
@@ -112,66 +131,34 @@
 	\part{Signal and system}
 	
 	\part{Ditial signal processing}
+	\begin{comment} 
+	rather stupid, but helpful 
 	\chapter{FFT}
 	\chapter{FIR}
 	\chapter{IIR}
+	\end{comment}
+
 	
 	\part{Digtal image processsing}
 	
 	\part{Audio signal processing}
 	
-	\part{Modal analysis}
-	
-	
-	
-	\begin{table}[H]
-		\centering
-		\caption{国家}
-		\begin{tabular}{|c|c|c|c|c|}
-			\hline
-			中国 &美国 &英国 &日本&加拿大\\
-			\hline
-			11&1&12&4&6\\
-			\hline
-		\end{tabular}
-		\label{tab2}    
-	\end{table}
-	
-	Table\ref{tab2} indicate that
-	
-	The universe is immense and it seems to be homogeneous, 
-	in a large scale, everywhere we look at.
-	
-	furnished his toy with a romantic legend about a much larger
-	"Tower of Brahma", which supposedly has 64~disks of pure gold
-	Gold ---wow.\par Are our disks made of concrete? 
-	resting on three diamond needles. At the beginning of time, he said,
-	"God" placed these golden disks on the first needle and ordained that a
-	group of priests should transfer them to the third, according to the
-	rules above. The priests reportedly work day and night at their task.
-	When they finish, the Tower will crumble and the world will end.
-	
-	resting on three diamond needles. At the beginning of time, he said,
-	"God" placed these golden disks on the first needle and ordained that a
-	group of priests should transfer them to the third, according to the
-	rules above. The priests reportedly work day and night at their task.
-	When they finish, the Tower will crumble and the world will end.
-	
+	\part{Modal analysis}	
 	
 	\part{Project Development}
+	
+	\begin{comment} 
+	rather stupid, but helpful 
 	\chapter{8-channel data acquistion system design}
 	\chapter{32-channel data acquistion system design}
 	\chapter{64-channel data acquistion system design}
+	\end{comment}
+
 	
 	\part{Appendix}
 	\include{./chapters/Appendix/Appendix}
 	appendix test
 	
 	
-
-
-
-
-
 
 \end{document}
