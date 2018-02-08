@@ -2,51 +2,55 @@
 \contentsline {part}{II\hspace {1em}Physics}{1}{part.2}
 \contentsline {chapter}{\numberline {1}Solid state physics}{3}{chapter.1}
 \contentsline {chapter}{\numberline {2}Semiconductor physics}{5}{chapter.2}
-\contentsline {part}{III\hspace {1em}Circuit basics}{7}{part.3}
-\contentsline {part}{IV\hspace {1em}Analog circuit}{9}{part.4}
-\contentsline {chapter}{\numberline {3}Transistor circuit analysis}{11}{chapter.3}
-\contentsline {chapter}{\numberline {4}Transistor circuit design}{13}{chapter.4}
-\contentsline {chapter}{\numberline {5}FET circuit analysis}{15}{chapter.5}
-\contentsline {chapter}{\numberline {6}FET circuit design}{17}{chapter.6}
-\contentsline {part}{V\hspace {1em}Analog VLSI design}{19}{part.5}
-\contentsline {chapter}{\numberline {7}Current source}{21}{chapter.7}
-\contentsline {chapter}{\numberline {8}Current mirror}{23}{chapter.8}
-\contentsline {chapter}{\numberline {9}Differential amplifier pair}{25}{chapter.9}
-\contentsline {chapter}{\numberline {10}OP AMP design}{27}{chapter.10}
-\contentsline {part}{VI\hspace {1em}Digital circuit}{29}{part.6}
-\contentsline {chapter}{\numberline {11}Finite state machine}{31}{chapter.11}
-\contentsline {part}{VII\hspace {1em}Analog digital converter}{33}{part.7}
-\contentsline {part}{VIII\hspace {1em}Verilog HDL}{35}{part.8}
-\contentsline {part}{IX\hspace {1em}Digital VLSI}{37}{part.9}
-\contentsline {chapter}{\numberline {12}CPU design}{39}{chapter.12}
-\contentsline {part}{X\hspace {1em}PCB design}{41}{part.10}
-\contentsline {part}{XI\hspace {1em}PCB SI\&PI}{43}{part.11}
-\contentsline {part}{XII\hspace {1em}C and C++ programming}{45}{part.12}
-\contentsline {part}{XIII\hspace {1em}Data structure and algorithms}{47}{part.13}
-\contentsline {part}{XIV\hspace {1em}Computer orgnization}{49}{part.14}
-\contentsline {part}{XV\hspace {1em}Computer architecture}{51}{part.15}
-\contentsline {chapter}{\numberline {13}Microcontroller}{53}{chapter.13}
-\contentsline {chapter}{\numberline {14}Digital signal processor}{55}{chapter.14}
-\contentsline {chapter}{\numberline {15}ARM processor}{57}{chapter.15}
-\contentsline {part}{XVI\hspace {1em}Operating system}{59}{part.16}
-\contentsline {part}{XVII\hspace {1em}Linux administration}{61}{part.17}
-\contentsline {part}{XVIII\hspace {1em}Linux kernel}{63}{part.18}
-\contentsline {part}{XIX\hspace {1em}Linux driver development}{65}{part.19}
-\contentsline {part}{XX\hspace {1em}Linux system porting}{67}{part.20}
-\contentsline {chapter}{\numberline {16}Buildroot}{69}{chapter.16}
-\contentsline {part}{XXI\hspace {1em}Computer Network}{71}{part.21}
-\contentsline {chapter}{\numberline {17}TCP/IP protocols}{73}{chapter.17}
-\contentsline {chapter}{\numberline {18}Socket programming}{75}{chapter.18}
-\contentsline {part}{XXII\hspace {1em}Signal and system}{77}{part.22}
-\contentsline {part}{XXIII\hspace {1em}Ditial signal processing}{79}{part.23}
-\contentsline {chapter}{\numberline {19}FFT}{81}{chapter.19}
-\contentsline {chapter}{\numberline {20}FIR}{83}{chapter.20}
-\contentsline {chapter}{\numberline {21}IIR}{85}{chapter.21}
-\contentsline {part}{XXIV\hspace {1em}Digtal image processsing}{87}{part.24}
-\contentsline {part}{XXV\hspace {1em}Audio signal processing}{89}{part.25}
-\contentsline {part}{XXVI\hspace {1em}Modal analysis}{91}{part.26}
-\contentsline {part}{XXVII\hspace {1em}Project Development}{93}{part.27}
-\contentsline {chapter}{\numberline {22}8-channel data acquistion system design}{95}{chapter.22}
-\contentsline {chapter}{\numberline {23}32-channel data acquistion system design}{97}{chapter.23}
-\contentsline {chapter}{\numberline {24}64-channel data acquistion system design}{99}{chapter.24}
-\contentsline {part}{XXVIII\hspace {1em}Appendix}{101}{part.28}
+\contentsline {chapter}{\numberline {3}Solid state physics}{7}{chapter.3}
+\contentsline {chapter}{\numberline {4}Semiconductor physics}{9}{chapter.4}
+\contentsline {part}{III\hspace {1em}Circuit basics}{11}{part.3}
+\contentsline {part}{IV\hspace {1em}Analog circuit}{13}{part.4}
+\contentsline {chapter}{\numberline {5}Transistor circuit analysis}{15}{chapter.5}
+\contentsline {chapter}{\numberline {6}Transistor circuit design}{17}{chapter.6}
+\contentsline {chapter}{\numberline {7}FET circuit analysis}{19}{chapter.7}
+\contentsline {chapter}{\numberline {8}FET circuit design}{21}{chapter.8}
+\contentsline {part}{V\hspace {1em}Analog VLSI design}{23}{part.5}
+\contentsline {chapter}{\numberline {9}Current source}{25}{chapter.9}
+\contentsline {chapter}{\numberline {10}Current mirror}{27}{chapter.10}
+\contentsline {chapter}{\numberline {11}Differential amplifier pair}{29}{chapter.11}
+\contentsline {chapter}{\numberline {12}OP AMP design}{31}{chapter.12}
+\contentsline {part}{VI\hspace {1em}Digital circuit}{33}{part.6}
+\contentsline {chapter}{\numberline {13}Finite state machine}{35}{chapter.13}
+\contentsline {part}{VII\hspace {1em}Analog digital converter}{37}{part.7}
+\contentsline {part}{VIII\hspace {1em}Verilog HDL}{39}{part.8}
+\contentsline {part}{IX\hspace {1em}Digital VLSI}{41}{part.9}
+\contentsline {chapter}{\numberline {14}CPU design}{43}{chapter.14}
+\contentsline {part}{X\hspace {1em}PCB design}{45}{part.10}
+\contentsline {part}{XI\hspace {1em}PCB SI\&PI}{47}{part.11}
+\contentsline {part}{XII\hspace {1em}C and C++ programming}{49}{part.12}
+\contentsline {part}{XIII\hspace {1em}Data structure and algorithms}{51}{part.13}
+\contentsline {part}{XIV\hspace {1em}Computer orgnization}{53}{part.14}
+\contentsline {part}{XV\hspace {1em}Computer architecture}{55}{part.15}
+\contentsline {chapter}{\numberline {15}Microcontroller}{57}{chapter.15}
+\contentsline {chapter}{\numberline {16}Digital signal processor}{59}{chapter.16}
+\contentsline {chapter}{\numberline {17}ARM processor}{61}{chapter.17}
+\contentsline {part}{XVI\hspace {1em}Operating system}{63}{part.16}
+\contentsline {part}{XVII\hspace {1em}Linux administration}{65}{part.17}
+\contentsline {part}{XVIII\hspace {1em}Linux kernel}{67}{part.18}
+\contentsline {part}{XIX\hspace {1em}Linux driver development}{69}{part.19}
+\contentsline {part}{XX\hspace {1em}Linux system porting}{71}{part.20}
+\contentsline {chapter}{\numberline {18}Buildroot}{73}{chapter.18}
+\contentsline {part}{XXI\hspace {1em}Computer Network}{75}{part.21}
+\contentsline {chapter}{\numberline {19}TCP/IP protocols}{77}{chapter.19}
+\contentsline {chapter}{\numberline {20}Socket programming}{79}{chapter.20}
+\contentsline {part}{XXII\hspace {1em}Signal and system}{81}{part.22}
+\contentsline {part}{XXIII\hspace {1em}Ditial signal processing}{83}{part.23}
+\contentsline {chapter}{\numberline {21}FFT}{85}{chapter.21}
+\contentsline {chapter}{\numberline {22}FIR}{87}{chapter.22}
+\contentsline {chapter}{\numberline {23}IIR}{89}{chapter.23}
+\contentsline {part}{XXIV\hspace {1em}Digtal image processsing}{91}{part.24}
+\contentsline {part}{XXV\hspace {1em}Audio signal processing}{93}{part.25}
+\contentsline {part}{XXVI\hspace {1em}Modal analysis}{95}{part.26}
+\contentsline {part}{XXVII\hspace {1em}Project Development}{99}{part.27}
+\contentsline {chapter}{\numberline {24}8-channel data acquistion system design}{101}{chapter.24}
+\contentsline {chapter}{\numberline {25}32-channel data acquistion system design}{103}{chapter.25}
+\contentsline {chapter}{\numberline {26}64-channel data acquistion system design}{105}{chapter.26}
+\contentsline {part}{XXVIII\hspace {1em}Appendix}{107}{part.28}
+\contentsline {chapter}{\numberline {27}Basic mathimatics}{109}{chapter.27}
+\contentsline {section}{\numberline {27.1}Formulas}{109}{section.27.1}
