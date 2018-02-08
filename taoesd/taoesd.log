@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.2.5)  8 FEB 2018 15:26
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.2.5)  8 FEB 2018 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -264,7 +264,8 @@ LaTeX Warning: Unused global option(s):
     [UTF8].
 
 (./taoesd.aux (./chapters/Preface/Preface.aux) (./chapters/Physics/Physics.aux)
-(./chapters/Analog_VLSI/Analog_VLSI.aux) (./chapters/Appendix/Appendix.aux))
+(./chapters/Analog_VLSI/Analog_VLSI.aux) (./chapters/Appendix/Appendix.aux)
+(./chapters/References/References.aux))
 \openout1 = `taoesd.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -478,26 +479,35 @@ Chapter 12.
 ) [77
 
 
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 162.
- [78
+] [78
+
+] [79
+
+] [80]
+\openout2 = `./chapters/References/References.aux'.
+
+ (./chapters/References/References.tex
+Chapter 13.
+) [81
+
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 162.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 164.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 164.
  (./taoesd.aux (./chapters/Preface/Preface.aux)
 (./chapters/Physics/Physics.aux) (./chapters/Analog_VLSI/Analog_VLSI.aux)
-(./chapters/Appendix/Appendix.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 162.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 162.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 162.
+(./chapters/Appendix/Appendix.aux) (./chapters/References/References.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 164.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 164.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 164.
  ) 
 Here is how much of TeX's memory you used:
- 9111 strings out of 493005
- 125629 string characters out of 6137957
- 202861 words of memory out of 5000000
- 12979 multiletter control sequences out of 15000+600000
- 10448 words of font info for 54 fonts, out of 8000000 for 9000
+ 9125 strings out of 493005
+ 125990 string characters out of 6137957
+ 203388 words of memory out of 5000000
+ 12983 multiletter control sequences out of 15000+600000
+ 10456 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 30i,7n,47p,349b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,7n,47p,350b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on taoesd.pdf (86 pages).
+Output written on taoesd.pdf (89 pages).
