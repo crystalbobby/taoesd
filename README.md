@@ -5,4 +5,7 @@ TAOESD is the acronym of The Art Of Embedded System Design, which is an open sou
 The first version will be released maybe 2 years later. Feb. 8th 2018
 
 Clone to local:
-git clone git@github.com:crystalbobby/taoesd.git
+https://github.com/crystalbobby/taoesd
+
+
+#git clone git@github.com:crystalbobby/taoesd.git
