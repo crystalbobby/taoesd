@@ -1,0 +1,69 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: taoesd.aux
+The style file: IEEEtran.bst
+A level-1 auxiliary file: ./chapters/Preface/Preface.aux
+A level-1 auxiliary file: ./chapters/Physics/Physics.aux
+A level-1 auxiliary file: ./chapters/Circuit/Circuit.aux
+A level-1 auxiliary file: ./chapters/Analog_VLSI/Analog_VLSI.aux
+A level-1 auxiliary file: ./chapters/Appendix/Appendix.aux
+A level-1 auxiliary file: ./chapters/References/References.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: taoesd.bib
+You're missing a field name---line 29 of file taoesd.bib
+ :     
+ :     %volume   = "g",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty year in Xarticle
+
+Done.
+You've used 5 entries,
+            4087 wiz_defined-function locations,
+            859 strings with 8129 characters,
+and the built_in function-call counts, 4266 in all, are:
+= -- 351
+> -- 99
+< -- 44
++ -- 56
+- -- 16
+* -- 222
+:= -- 650
+add.period$ -- 10
+call.type$ -- 5
+change.case$ -- 5
+chr.to.int$ -- 96
+cite$ -- 6
+duplicate$ -- 293
+empty$ -- 297
+format.name$ -- 19
+if$ -- 969
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 48
+newline$ -- 38
+num.names$ -- 5
+pop$ -- 95
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 323
+stack$ -- 0
+substring$ -- 229
+swap$ -- 259
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 5
+warning$ -- 1
+while$ -- 21
+width$ -- 6
+write$ -- 73
+(There was 1 error message)

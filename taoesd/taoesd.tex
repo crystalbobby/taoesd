@@ -8,8 +8,25 @@
 \usepackage{float}
 \usepackage{hyperref}
 \usepackage{amsmath, amssymb}
+\usepackage{mathptmx}
 \usepackage{comment}
+\usepackage{makeidx}
+\usepackage{cite}
+
+\bibliographystyle{IEEEtran}
+
+% Use bibliography style named.
+% Requires the file named.bst.
+%\bibliographystyle{named}
+% Requires the package named.sty.
+%\usepackage{named}
+
+\makeindex
+
+
 \graphicspath{ {images/} }
+
+
  
 \begin{document}
 	\maketitle
@@ -30,10 +47,24 @@
 	\label{Semiconductor physics}
 	\end{comment}
 
+
+	bibliography
+	
+	greenwade93\cite{greenwade93}
+
+	greenwade93\cite{Xarticle}
+
+	carbon nanotube\cite{dreyer2010chemistry}
+
+	carbon\cite{geim2007rise}
+
+	transistors\cite{novoselov2005two}
+
 	
 	
 	\part{Circuit basics}
 	\label{Circuit basics}
+	\include{./chapters/Circuit/Circuit}
 	
 	\part{Analog circuit}
 	\label{Analog circuit}
@@ -158,7 +189,18 @@
 
 	\part{References}
 	\include{./chapters/References/References}
+
+
+	%正文中加入index：
+	This is my key\index{key}.
+	This is my second palace\index{key!palace} that has a key.
+
+	By default, where appropriate\index{appropriate}, citations are abbreviated automatically after the	first reference when bibliographies are produced by BibT E X. Provision is also
+	made for this feature\index{feature} to be accessed during manual coding
 	
-	
+	%列出index:
+	\printindex
+
+	\bibliography{taoesd}
 
 \end{document}
