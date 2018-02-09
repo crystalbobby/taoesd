@@ -1,13 +1,16 @@
-\documentclass[UTF8]{book}
+%\documentclass[UTF8]{book}
+\documentclass[UTF8]{ctexbook}
 \title{ART OF EMBEDDED SYSTEM DESIGN }
 \author{Bobby}
 \date{\today}
 
 %\usepackage{ctex}
+\usepackage{CJKutf8}
 \usepackage{graphicx}
 \usepackage{float}
 \usepackage{hyperref}
 \usepackage{amsmath, amssymb}
+\usepackage{amsfonts}
 \usepackage{mathptmx}
 \usepackage{comment}
 \usepackage{makeidx}
@@ -29,11 +32,20 @@
 
  
 \begin{document}
+	
 	\maketitle
 	\frontmatter
 	\include{./chapters/Preface/Preface}
 
 	\tableofcontents
+	
+	
+		
+	\newtheorem{definition}{定义}{section}
+	\newtheorem{theorem}{定理}{section}
+	\newtheorem{lemma}{theorem}{引理}
+	\newtheorem{corollary}{theorem}{推论}
+	
 	
 	\mainmatter
 	\part{Physics}
@@ -67,7 +79,18 @@
 	% ref
 	% href
 	% url
-	% 
+	% 包括章节，脚注，目录，表格，插图，索引，参考书目
+
+	 %  begin{figure}
+  %     includegraphics{tex.eps}
+  %     caption{This is me, TeX!}
+  %     label{tex}
+  %     end{figure}
+
+  %     请看图ref{tex}
+	 % listoffigures
+
+
 
 	
 	
