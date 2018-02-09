@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.2.5)  9 FEB 2018 11:29
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/W32TeX) (preloaded format=xelatex 2018.2.5)  9 FEB 2018 15:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -146,8 +146,8 @@ File: ctexopts.cfg 2017/04/01 v2.4.9 Option configuration file (CTEX)
 )
 (c:/texlive/2017/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-(c:/texlive/2017/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(c:/texlive/2017/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count117
 \c@chapter=\count118
@@ -1096,10 +1096,6 @@ File: ctex-name-utf8.cfg 2017/04/01 v2.4.9 Caption with encoding UTF8 (CTEX)
 . 
 . Defining command \zihao with sig. 'm' on line 1333.
 .................................................
-
-(c:/texlive/2017/texmf-dist/tex/latex/ctex/ctex-c5size.clo
-File: ctex-c5size.clo 2017/04/01 v2.4.9 c5size option (CTEX)
-)
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1438,6 +1434,10 @@ LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
+(c:/texlive/2017/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count175
+)
 \@indexfile=\write4
 \openout4 = `taoesd.idx'.
 
@@ -1445,47 +1445,48 @@ Package: cite 2015/02/27  v 5.5
 Writing index file taoesd.idx
 (./taoesd.aux (./chapters/Preface/Preface.aux) (./chapters/Physics/Physics.aux)
 (./chapters/Circuit/Circuit.aux) (./chapters/Analog_VLSI/Analog_VLSI.aux)
-(./chapters/Appendix/Appendix.aux) (./chapters/References/References.aux))
+(./chapters/ADC/ADC.aux) (./chapters/Appendix/Appendix.aux)
+(./chapters/References/References.aux))
 \openout1 = `taoesd.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 34.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 36.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 36.
 
 (c:/texlive/2017/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Try loading font information for TU+ptm on input line 34.
-LaTeX Font Info:    No file TUptm.fd. on input line 34.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Try loading font information for TU+ptm on input line 36.
+LaTeX Font Info:    No file TUptm.fd. on input line 36.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 34.
+(Font)              using `TU/lmr/m/n' instead on input line 36.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 34.
+LaTeX Info: Redefining \selectfont on input line 36.
 \AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring OFF on input line 34.
+Package hyperref Info: Link coloring OFF on input line 36.
 
 (c:/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1493,58 +1494,58 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (c:/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count175
+\c@section@level=\count176
 )
-LaTeX Info: Redefining \ref on input line 34.
-LaTeX Info: Redefining \pageref on input line 34.
-LaTeX Info: Redefining \nameref on input line 34.
+LaTeX Info: Redefining \ref on input line 36.
+LaTeX Info: Redefining \pageref on input line 36.
+LaTeX Info: Redefining \nameref on input line 36.
 
 (./taoesd.out) (./taoesd.out)
 \@outlinefile=\write5
 \openout5 = `taoesd.out'.
 
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 37
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 39
 .
 
 (c:/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 37
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 39
 .
 
 (c:/texlive/2017/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 37
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 39
 .
 
 (c:/texlive/2017/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 37
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 39
 .
 
 (c:/texlive/2017/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 37.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 39.
 
 (c:/texlive/2017/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12.045> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 39.
  [1
 
 
 ]
 
 LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 37.
+(Font)              using `TU/ptm/m/n' instead on input line 39.
 
 [2
 
@@ -1552,11 +1553,11 @@ LaTeX Font Warning: Font shape `TU/ptm/m/sl' undefined
 \openout2 = `./chapters/Preface/Preface.aux'.
 
  (./chapters/Preface/Preface.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.53937> not available
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 ) [1
 
@@ -1567,24 +1568,23 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 ]
 
 LaTeX Font Warning: Font shape `TU/ptm/bx/n' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 40.
+(Font)              using `TU/ptm/m/n' instead on input line 42.
 
 (./taoesd.toc [3]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not avail
-able
+LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <12> not available
 (Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 
-29.
+32.
  [4]
 [5])
 \tf@toc=\write6
 \openout6 = `taoesd.toc'.
 
-\c@definition=\count176
-\c@theorem=\count177
-\c@lemma=\count178
-\c@corollary=\count179
+\c@definition=\count177
+\c@theorem=\count178
+\c@lemma=\count179
+\c@corollary=\count180
  [6] [1
 
 
@@ -1649,19 +1649,48 @@ Excluding 'comment' comment.
 
 ] [26
 
-] [27] [28] [29
+] [27] [28]
+\openout2 = `chapters/ADC/ADC.aux'.
+
+ (./chapters/ADC/ADC.tex
+第九章
+File: left.pdf Graphic file (type QTm)
+<use  "left.pdf" >
+File: right.pdf Graphic file (type QTm)
+ <use  "right.pdf" >
+Overfull \hbox (188.15855pt too wide) in paragraph at lines 30--32
+ [][] 
+ []
+
+
+Overfull \hbox (188.15855pt too wide) in paragraph at lines 30--32
+ [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 378.57649pt on input line 33.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+) [29
+
 
 ] [30] [31
 
-] [32]
-第九章
-[33
 
-] [34
+] [32] [33
 
-] [35] [36] [37
+] [34]
+第十章
+[35
 
-] [38] [39
+] [36
+
+] [37] [38] [39
 
 ] [40] [41
 
@@ -1669,10 +1698,10 @@ Excluding 'comment' comment.
 
 ] [44] [45
 
-] [46]
-Excluding 'comment' comment. [47
+] [46] [47
 
-] [48] [49
+] [48]
+Excluding 'comment' comment. [49
 
 ] [50] [51
 
@@ -1680,55 +1709,57 @@ Excluding 'comment' comment. [47
 
 ] [54] [55
 
+] [56] [57
+
 ]
-[56]
-第十章
-[57
-
-] [58
-
-] [59] [60]
+[58]
 第十一章
-[61
+[59
 
-] [62
+] [60
 
-]
+] [61] [62]
 第十二章
-[63] [64
+[63
 
-] [65] [66] [67
-
-] [68] Excluding 'comment' comment. [69
-
-] [70] [71
+] [64
 
 ]
-[72] [73
+第十三章
+[65] [66
 
-] [74] [75
+] [67] [68] [69
 
-] [76] Excluding 'comment' comment. [77
+] [70] Excluding 'comment' comment. [71
 
-] [78]
+] [72] [73
+
+]
+[74] [75
+
+] [76] [77
+
+] [78] Excluding 'comment' comment. [79
+
+] [80]
 \openout2 = `./chapters/Appendix/Appendix.aux'.
 
 
 (./chapters/Appendix/Appendix.tex
-第十三章
-) [79
+第十四章
+) [81
 
 
-] [80
+] [82
 
-] [81
+] [83
 
-] [82]
+] [84]
 \openout2 = `./chapters/References/References.aux'.
 
  (./chapters/References/References.tex
-第十四章
-\g__fontspec_family_FangSong_int=\count180
+第十五章
+\g__fontspec_family_FangSong_int=\count181
 .................................................
 . fontspec info: "no-font-shape"
 . 
@@ -1756,15 +1787,15 @@ Excluding 'comment' comment. [47
 . <->"FangSong/OT:script=hani;language=DFLT;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 .................................................
-) [83
+) [85
 
 
-] (./taoesd.ind [84
+] (./taoesd.ind [86
 
-] [85
+] [87
 
 
-]) (./taoesd.bbl [86
+]) (./taoesd.bbl [88
 
 
 ]
@@ -1773,28 +1804,28 @@ LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
 (Font)              using `TU/ptm/m/n' instead on input line 26.
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 238.
- [87]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 238.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 242.
+ [89]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 242.
  (./taoesd.aux (./chapters/Preface/Preface.aux)
 (./chapters/Physics/Physics.aux) (./chapters/Circuit/Circuit.aux)
-(./chapters/Analog_VLSI/Analog_VLSI.aux) (./chapters/Appendix/Appendix.aux)
-(./chapters/References/References.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 238.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 238.
+(./chapters/Analog_VLSI/Analog_VLSI.aux) (./chapters/ADC/ADC.aux)
+(./chapters/Appendix/Appendix.aux) (./chapters/References/References.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 242.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 242.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 238.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 242.
  ) 
 Here is how much of TeX's memory you used:
- 26832 strings out of 493005
- 513992 string characters out of 6137957
- 549955 words of memory out of 5000000
- 30492 multiletter control sequences out of 15000+600000
- 22998 words of font info for 87 fonts, out of 8000000 for 9000
+ 27070 strings out of 493005
+ 516776 string characters out of 6137957
+ 651553 words of memory out of 5000000
+ 30720 multiletter control sequences out of 15000+600000
+ 32352 words of font info for 111 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 57i,7n,68p,10452b,388s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,8n,68p,10452b,388s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on taoesd.pdf (95 pages).
+Output written on taoesd.pdf (97 pages).

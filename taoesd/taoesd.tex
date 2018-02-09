@@ -1,5 +1,6 @@
 %\documentclass[UTF8]{book}
-\documentclass[UTF8]{ctexbook}
+
+\documentclass[12pt,a4paper,UTF8]{ctexbook}
 \title{ART OF EMBEDDED SYSTEM DESIGN }
 \author{Bobby}
 \date{\today}
@@ -15,6 +16,7 @@
 \usepackage{comment}
 \usepackage{makeidx}
 \usepackage{cite}
+\usepackage{lipsum}
 
 \bibliographystyle{IEEEtran}
 
@@ -58,6 +60,7 @@
 	\chapter{Semiconductor physics}
 	\label{Semiconductor physics}
 	\end{comment}
+	参阅\cite{dreyer2010chemistry}
 
 
 	bibliography
@@ -143,6 +146,7 @@
 	
 	\part{Analog digital converter}
 	\label{Analog digital converter}
+	\include{chapters/ADC/ADC}
 	
 	\part{Verilog HDL}
 	\label{Verilog HDL}
